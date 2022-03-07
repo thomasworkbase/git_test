@@ -1,0 +1,1 @@
+Let's type some text to test Git.
